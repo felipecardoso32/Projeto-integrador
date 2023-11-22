@@ -12,7 +12,7 @@ A principal finalidade deste sistema é proporcionar uma representação visual 
 
 Instruções de Uso
 
-Clone o repositório.
+Acesse o link https://www.figma.com/community/file/1308830234174201440
 Execute o sistema seguindo as instruções específicas do ambiente de desenvolvimento.
 Consulte a documentação para entender os casos de uso e a estrutura de classes.
 
